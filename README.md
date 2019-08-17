@@ -1,2 +1,2 @@
 # hyperblog
-curso git platzi
+curso git platzi sensual
