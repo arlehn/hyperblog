@@ -7,7 +7,7 @@ ls = para listar directorios y archivos
 
 pwd = para ver en qué ruta de nuestro sistema está posicionado el terminal
 
-Comandos para mover archivos entre los estados de Git:
+Comandos para mover archivos entre los estados de Git#:
 
     $git init = para iniciar un proyecto nuevo (una sóla vez por repositorio)
 
